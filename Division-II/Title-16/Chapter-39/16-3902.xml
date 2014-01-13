@@ -30,7 +30,7 @@
       <text> (Location of room in (Address of 
  courthouse) court)</text>
       <text class="centered"> Washington, D.C.</text>
-      <text> ____________________________________ 
+      <text encoding="xhtml"><![CDATA[ ____________________________________ 
  
  Plaintiff 
  ____________________________________ 
@@ -40,18 +40,18 @@
  <span style="font-style: italic; ">vs. 
 </span> ____________________________________ 
  
- Defendant</text>
+ Defendant]]></text>
       <text class="centered"> STATEMENT OF CLAIM</text>
-      <text> (Here the plaintiff, or at his request the clerk, will insert a statement of the plaintiff's claim, and the original, to be filed with the clerk, may, if action is on a contract, express or implied, be verified by the plaintiff or his agent, as follows:) 
+      <text encoding="xhtml"><![CDATA[ (Here the plaintiff, or at his request the clerk, will insert a statement of the plaintiff's claim, and the original, to be filed with the clerk, may, if action is on a contract, express or implied, be verified by the plaintiff or his agent, as follows:) 
  <span style="font-style: italic; ">District of Columbia, ss: 
 </span> ________________________ being first duly sworn on oath says the foregoing is a just and true statement of the amount owing by defendant to plaintiff, exclusive of all set-offs and just grounds of defense. 
  ____________________________________. 
  Plaintiff (or agent) 
  Subscribed and sworn to before me this ____________ days of _____________, 19____. 
  ____________________________________. 
- Clerk (or notary public)</text>
+ Clerk (or notary public)]]></text>
       <text class="centered"> NOTICE</text>
-      <text> To: ________________________ 
+      <text encoding="xhtml"><![CDATA[ To: ________________________ 
  
  Defendant 
  ________________________ 
@@ -66,7 +66,7 @@
  If you wish to have witnesses summoned, see the clerk at once for assistance. 
  If you admit the claim, but desire additional time to pay, you must come to the hearing in person and state the circumstances to the court. 
  You may come with or without an attorney. 
- [<span style="font-style: italic; ">seal</span>]</text>
+ [<span style="font-style: italic; ">seal</span>]]]></text>
       <text> ____________________________________ 
  Clerk of the Small Claims and 
  Conciliation Branch, Superior Court of the District of Columbia</text>

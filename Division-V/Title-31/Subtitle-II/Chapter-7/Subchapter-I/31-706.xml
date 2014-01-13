@@ -121,7 +121,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>Not less than <span style="font-style: italic; ">1</span>/<span style="">3</span> of the directors of a domestic insurer and not less than <span style="font-style: italic; ">1</span>/<span style="">3</span> of the members of each committee of the board of directors of any domestic insurer shall be persons who are not officers or employees of the insurer or of any entity controlling, controlled by, or under common control with the insurer and who are not beneficial owners of a controlling interest in the voting stock of the insurer or such an entity. At least 1 such person must be included in any quorum for the transaction of business at any meeting of the board of directors or any committee.</text>
+      <text encoding="xhtml"><![CDATA[Not less than <span style="font-style: italic; ">1</span>/<span style="">3</span> of the directors of a domestic insurer and not less than <span style="font-style: italic; ">1</span>/<span style="">3</span> of the members of each committee of the board of directors of any domestic insurer shall be persons who are not officers or employees of the insurer or of any entity controlling, controlled by, or under common control with the insurer and who are not beneficial owners of a controlling interest in the voting stock of the insurer or such an entity. At least 1 such person must be included in any quorum for the transaction of business at any meeting of the board of directors or any committee.]]></text>
     </level>
     <level>
       <num>(4)</num>

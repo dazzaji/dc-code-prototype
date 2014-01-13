@@ -521,7 +521,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>For uniform amounts of insurance, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount of insurance from the sum of the following:</text>
+      <text encoding="xhtml"><![CDATA[For uniform amounts of insurance, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount of insurance from the sum of the following:]]></text>
       <level>
         <num>(A)</num>
         <text>Either zero or the basic cash value, whichever is greater.</text>
@@ -533,7 +533,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>For insurance amounts not treated in paragraph (2) of this subsection, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the average insurance amounts at the beginning of the first 10 policy years from the sum of the following:</text>
+      <text encoding="xhtml"><![CDATA[For insurance amounts not treated in paragraph (2) of this subsection, a cash surrender value available after a default on a premium due on a policy anniversary shall not differ by more than <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the average insurance amounts at the beginning of the first 10 policy years from the sum of the following:]]></text>
       <level>
         <num>(A)</num>
         <text>Either zero or the basic cash value, whichever is greater.</text>
@@ -576,7 +576,7 @@
   </level>
   <level>
     <num>(ii)</num>
-    <text>Unless the 5th anniversary precedes an anniversary when a cash surrender value without paid-up additions and without indebtedness deductions equal at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount described in subparagraph (iii) of this paragraph, the percentage cannot change during policy years between the 2nd anniversary and an anniversary with a cash surrender value, without the additions and the deductions, equaling at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the subparagraph (iii) amount.</text>
+    <text encoding="xhtml"><![CDATA[Unless the 5th anniversary precedes an anniversary when a cash surrender value without paid-up additions and without indebtedness deductions equal at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the amount described in subparagraph (iii) of this paragraph, the percentage cannot change during policy years between the 2nd anniversary and an anniversary with a cash surrender value, without the additions and the deductions, equaling at least <span style="font-style: italic; ">1</span>/<span style="">5</span> of 1% of the subparagraph (iii) amount.]]></text>
   </level>
   <level>
     <num>(iii)</num>

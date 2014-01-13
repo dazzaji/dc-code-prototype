@@ -245,7 +245,7 @@
     </level>
     <level>
       <num>(6)</num>
-      <text>All meetings of the Commission, including hearings of individual appeals, shall be open to the public. All information presented at Commission meetings, including individual appeals, shall be available for public inspection. Notwithstanding the foregoing, valuation records protected under § 47-821(d), tax returns, and information that is personal in nature shall not be available for public inspection and discussion of same during a hearing shall be <span style="font-style: italic; ">in camera</span>.</text>
+      <text encoding="xhtml"><![CDATA[All meetings of the Commission, including hearings of individual appeals, shall be open to the public. All information presented at Commission meetings, including individual appeals, shall be available for public inspection. Notwithstanding the foregoing, valuation records protected under § 47-821(d), tax returns, and information that is personal in nature shall not be available for public inspection and discussion of same during a hearing shall be <span style="font-style: italic; ">in camera</span>.]]></text>
     </level>
     <level>
       <num>(7)</num>

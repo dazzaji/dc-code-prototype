@@ -81,7 +81,7 @@
       </level>
       <level>
         <num>(B)</num>
-        <text>If in a case under paragraphs [<span style="font-style: italic; ">paragraph </span>] (A), the magistrate judge finds that a duty of support exists and makes a finding that the case involves complex issues requiring judicial resolution, the magistrate judge shall establish a temporary support obligation and refer unresolved issues to a judge of the Superior Court.</text>
+        <text encoding="xhtml"><![CDATA[If in a case under paragraphs [<span style="font-style: italic; ">paragraph </span>] (A), the magistrate judge finds that a duty of support exists and makes a finding that the case involves complex issues requiring judicial resolution, the magistrate judge shall establish a temporary support obligation and refer unresolved issues to a judge of the Superior Court.]]></text>
       </level>
       <level>
         <num>(C)</num>

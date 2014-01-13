@@ -20,7 +20,7 @@
     </level>
     <level>
       <num>(3)</num>
-      <text>One <span style="font-style: italic; ">ex officio </span>Commissioner, the Deputy Mayor for Planning and Economic Development;</text>
+      <text encoding="xhtml"><![CDATA[One <span style="font-style: italic; ">ex officio </span>Commissioner, the Deputy Mayor for Planning and Economic Development;]]></text>
     </level>
     <level>
       <num>(4)</num>
@@ -65,7 +65,7 @@
   </level>
   <level>
     <num>(f)</num>
-    <text>The <span style="font-style: italic; ">ex-officio </span>Commissioner shall serve by virtue of his or her incumbency in a District government office.</text>
+    <text encoding="xhtml"><![CDATA[The <span style="font-style: italic; ">ex-officio </span>Commissioner shall serve by virtue of his or her incumbency in a District government office.]]></text>
   </level>
   <level>
     <num>(g)</num>
@@ -108,7 +108,7 @@
   </level>
   <level>
     <num>(m)</num>
-    <text>The Mayor shall designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as Chairperson. The <span style="font-style: italic; ">ex officio </span>Commissioner shall not be appointed as Chairperson. The Chairperson shall conduct the meetings of the Board in accordance with procedures established by the Board.</text>
+    <text encoding="xhtml"><![CDATA[The Mayor shall designate one of his or her 4 nominees nominated pursuant to subsection (a)(1) of this section as Chairperson. The <span style="font-style: italic; ">ex officio </span>Commissioner shall not be appointed as Chairperson. The Chairperson shall conduct the meetings of the Board in accordance with procedures established by the Board.]]></text>
   </level>
   <level>
     <num>(n)</num>
@@ -124,7 +124,7 @@
   </level>
   <level>
     <num>(q)</num>
-    <text>Other than the <span style="font-style: italic; ">ex officio </span>Commissioner and the labor representative who is a Commissioner, no person shall serve as a Commissioner who is an employee of the Authority or of the District government; a member of any District board or commission (including those that are purely advisory, except for Advisory Neighborhood Commissions); a spouse or domestic partner of the head of a District department or agency; a spouse or domestic partner of an Authority employee; a spouse or domestic partner of an elected official; or a parent or child of any of the above persons.</text>
+    <text encoding="xhtml"><![CDATA[Other than the <span style="font-style: italic; ">ex officio </span>Commissioner and the labor representative who is a Commissioner, no person shall serve as a Commissioner who is an employee of the Authority or of the District government; a member of any District board or commission (including those that are purely advisory, except for Advisory Neighborhood Commissions); a spouse or domestic partner of the head of a District department or agency; a spouse or domestic partner of an Authority employee; a spouse or domestic partner of an elected official; or a parent or child of any of the above persons.]]></text>
   </level>
   <level>
     <num>(r)</num>

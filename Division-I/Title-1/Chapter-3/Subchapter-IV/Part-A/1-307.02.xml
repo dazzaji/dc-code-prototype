@@ -211,7 +211,7 @@
         <text>The Mayor shall assign any TANF and TANF-related Medicaid recipient who does not choose a provider within a reasonable time to a health maintenance organization described in subparagraph (A) of this paragraph.</text>
         <level>
           <num>(i)</num>
-          <text>A managed care provider as described in subparagraph (A)(i) [<span style="font-style: italic; ">sic</span>] of this paragraph; or</text>
+          <text encoding="xhtml"><![CDATA[A managed care provider as described in subparagraph (A)(i) [<span style="font-style: italic; ">sic</span>] of this paragraph; or]]></text>
         </level>
         <level>
           <num>(ii)</num>

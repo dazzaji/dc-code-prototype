@@ -176,16 +176,25 @@ A `<level>` contains any of the following subelements:
 Text
 ----
 
-Text content is contained within `<text>` elements inside `<level>`s. `<text>` may be interleaved with other `<text>` and `<level>` elements and should be rendered in document order. Each `<text>` element is a separate paragraph. These elements contain HTML, e.g.:
+Text content is contained within `<text>` elements inside `<level>`s. `<text>` may be interleaved with other `<text>` and `<level>` elements and should be rendered in document order. Each `<text>` element is a separate paragraph.
 
-	<text>One <span style="font-style: italic; ">ex officio </span>Commissioner,
-	the Deputy Mayor for Planning and Economic Development;</text>
+The content of a `<text>` element is *either* plain text:
+
+	<text>The District of Columbia is that portion of the territory
+	of the United States ceded by the State of Maryland for the permanent...</text>
+
+or, if it has `encoding="xhtml"`, an XHTML fragment:
+
+	<text encoding="xhtml"><![CDATA[One <span style="font-style: italic; ">ex officio </span>
+	Commissioner, the Deputy Mayor for Planning and Economic Development;]]></text>
+
+in which case you must parse the XHTML.
 
 An optional `class` attribute can be one of:
 
 * `centered`: The paragraph is rendered with centered text alignment.
 
-Inside the `<text>` element is HTML conforming to the following restrictions:
+When `<text>` contains XHTML, the XHTML conforms to the following restrictions:
 
 * Only bare text and `<span>` elements may appear.
 * `<span>` elements may have a style attribute containing only the following CSS:

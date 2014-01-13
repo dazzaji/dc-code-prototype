@@ -5,7 +5,7 @@
   <heading>Uniform form of written financing statement and amendment.</heading>
   <level>
     <num>(a)</num>
-    <text>A filing office that accepts written records may not refuse to accept a written initial financing statement in the following form and format except for a reason set forth in § 28:9-516(b): <span style="font-weight: bold; ">one </span> Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's name will not fit in line 2b, leave all of itme 2 blank, check here [ ] and provide the Individual Debtor information in item 19 of the Finance Statement Addendum Form (Form UCC1Ad) <span style="font-weight: bold; ">one </span> Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name; if any part of the Individual Debtor's name will not fit in line 1b, leave all of item 1blank, check here [ ] and provide the Individual Debtor information in item 10 of the Finance Statement Addendum Form (Form UCC1Ad) <span style="font-weight: bold; ">only </span> if applicable and check only <span style="font-weight: bold; ">one </span> box: <span style="font-weight: bold; ">only </span> if applicable and check only <span style="font-weight: bold; ">one </span> box: <span style="font-weight: bold; ">only </span> if applicable and check only <span style="font-weight: bold; ">one </span> box:</text>
+    <text encoding="xhtml"><![CDATA[A filing office that accepts written records may not refuse to accept a written initial financing statement in the following form and format except for a reason set forth in § 28:9-516(b): <span style="font-weight: bold; ">one </span> Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name); if any part of the Individual Debtor's name will not fit in line 2b, leave all of itme 2 blank, check here [ ] and provide the Individual Debtor information in item 19 of the Finance Statement Addendum Form (Form UCC1Ad) <span style="font-weight: bold; ">one </span> Debtor name (1a or 1b) (use exact, full name; do not omit, modify, or abbreviate any part of the Debtor's name; if any part of the Individual Debtor's name will not fit in line 1b, leave all of item 1blank, check here [ ] and provide the Individual Debtor information in item 10 of the Finance Statement Addendum Form (Form UCC1Ad) <span style="font-weight: bold; ">only </span> if applicable and check only <span style="font-weight: bold; ">one </span> box: <span style="font-weight: bold; ">only </span> if applicable and check only <span style="font-weight: bold; ">one </span> box: <span style="font-weight: bold; ">only </span> if applicable and check only <span style="font-weight: bold; ">one </span> box:]]></text>
     <level>
       <type>form</type>
       <text>
@@ -142,10 +142,8 @@ NAME OF THIS DEBTOR SUFFIX
  
 
  [UCC FINANCING STATEMENT (Form UCC1)]</text>
-      <text>
-        <span style="font-weight: bold; ">"UCC FINANCING STATEMENT ADDENDUM</span>
-      </text>
-      <text>
+      <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">"UCC FINANCING STATEMENT ADDENDUM</span>]]></text>
+      <text encoding="xhtml"><![CDATA[
  
  "FOLLOW INSTRUCTIONS 
  
@@ -251,7 +249,7 @@ NAME OF THIS DEBTOR SUFFIX
  
  "17. MISCELLANEOUS: 
  
- " ....................</text>
+ " ....................]]></text>
       <text class="centered"> [UCC FINANCING STATEMENT ADDENDUM (Form UCC1Ad)].</text>
     </level>
   </level>
@@ -261,7 +259,7 @@ NAME OF THIS DEBTOR SUFFIX
     <level>
       <type>form</type>
       <text/>
-      <text>
+      <text encoding="xhtml"><![CDATA[
  
  "UCC FINANCING STATEMENT AMENDMENT 
  
@@ -395,11 +393,9 @@ NAME OF THIS DEBTOR SUFFIX
  "10. OPTIONAL FILER REFERENCE DATA 
  
 
- ".........................................................................</text>
+ ".........................................................................]]></text>
       <text class="centered"> [UCC FINANCING STATEMENT AMENDMENT (Form UCC3)]</text>
-      <text>
-        <span style="font-weight: bold; ">"UCC FINANCING STATEMENT AMENDMENT ADDENDUM</span>
-      </text>
+      <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">"UCC FINANCING STATEMENT AMENDMENT ADDENDUM</span>]]></text>
       <text>
  
  "FOLLOW INSTRUCTIONS 

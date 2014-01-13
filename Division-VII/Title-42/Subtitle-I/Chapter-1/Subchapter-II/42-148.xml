@@ -10,7 +10,7 @@
     <level>
       <type>form</type>
       <text/>
-      <text>
+      <text encoding="xhtml"><![CDATA[
 
 
  District of Columbia 
@@ -86,7 +86,7 @@
  Title (and Rank) 
 
 
- (My commission expires: ______________)</text>
+ (My commission expires: ______________)]]></text>
     </level>
     <level>
       <num>(4)</num>
@@ -94,7 +94,7 @@
       <level>
         <type>form</type>
         <text/>
-        <text>
+        <text encoding="xhtml"><![CDATA[
 
 
  District of Columbia 
@@ -118,7 +118,7 @@
  Title (and Rank) 
 
 
- (My commission expires: ______________)</text>
+ (My commission expires: ______________)]]></text>
       </level>
     </level>
     <level>

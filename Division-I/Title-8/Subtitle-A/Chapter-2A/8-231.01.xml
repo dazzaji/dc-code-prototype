@@ -130,7 +130,7 @@
   </level>
   <level>
     <num>(20)</num>
-    <text>"Lead-based paint" means any paint or other surface coating containing lead or lead in its compounds in any quantity exceeding 0.5% of the total weight of the material or more than one milligram per square centimeter (1.0 mg/cm<span style="font-style: italic; ">2</span>), or such more stringent standards as may be specified in federal law or regulations promulgated by EPA or HUD, which shall be adopted by the Mayor by rule.</text>
+    <text encoding="xhtml"><![CDATA["Lead-based paint" means any paint or other surface coating containing lead or lead in its compounds in any quantity exceeding 0.5% of the total weight of the material or more than one milligram per square centimeter (1.0 mg/cm<span style="font-style: italic; ">2</span>), or such more stringent standards as may be specified in federal law or regulations promulgated by EPA or HUD, which shall be adopted by the Mayor by rule.]]></text>
   </level>
   <level>
     <num>(21)</num>
@@ -152,11 +152,11 @@
       <text>For dust action levels or for the purpose of clearance examination:</text>
       <level>
         <num>(i)</num>
-        <text>40 micrograms per square foot (" mg/ft<span style="font-style: italic; ">2</span>") on floors; or</text>
+        <text encoding="xhtml"><![CDATA[40 micrograms per square foot (" mg/ft<span style="font-style: italic; ">2</span>") on floors; or]]></text>
       </level>
       <level>
         <num>(ii)</num>
-        <text>250 mg/ft<span style="font-style: italic; ">2</span> on interior windowsills;</text>
+        <text encoding="xhtml"><![CDATA[250 mg/ft<span style="font-style: italic; ">2</span> on interior windowsills;]]></text>
       </level>
     </level>
     <level>
@@ -164,11 +164,11 @@
       <text>For the purpose of clearance examination:</text>
       <level>
         <num>(i)</num>
-        <text>400 mg/ft<span style="font-style: italic; ">2</span> on window troughs; or</text>
+        <text encoding="xhtml"><![CDATA[400 mg/ft<span style="font-style: italic; ">2</span> on window troughs; or]]></text>
       </level>
       <level>
         <num>(ii)</num>
-        <text>800 mg/ft<span style="font-style: italic; ">2</span> on concrete or other rough exterior surfaces; or</text>
+        <text encoding="xhtml"><![CDATA[800 mg/ft<span style="font-style: italic; ">2</span> on concrete or other rough exterior surfaces; or]]></text>
       </level>
     </level>
     <level>
@@ -201,11 +201,11 @@
   </level>
   <level>
     <num>(27)</num>
-    <text>"Lead-free property" means a property that contains no lead-contaminated soil, and the interior and exterior surfaces do not contain any lead-based paint or other surface coatings that contain lead equal to or in excess of one milligram per square centimeter (1.0 mg/cm<span style="font-style: italic; ">2</span>).</text>
+    <text encoding="xhtml"><![CDATA["Lead-free property" means a property that contains no lead-contaminated soil, and the interior and exterior surfaces do not contain any lead-based paint or other surface coatings that contain lead equal to or in excess of one milligram per square centimeter (1.0 mg/cm<span style="font-style: italic; ">2</span>).]]></text>
   </level>
   <level>
     <num>(28)</num>
-    <text>"Lead-free unit" means a unit for which the interior and exterior surfaces appurtenant to the unit do not contain any lead-based paint or other surface coatings that contain lead equal to or in excess of one milligram per square centimeter (1.0 mg/cm<span style="font-style: italic; ">2</span>), and for which the approaches thereto remain lead-safe. The Mayor, by rule, may establish a method to ensure that approaches to lead-free units remain lead-safe.</text>
+    <text encoding="xhtml"><![CDATA["Lead-free unit" means a unit for which the interior and exterior surfaces appurtenant to the unit do not contain any lead-based paint or other surface coatings that contain lead equal to or in excess of one milligram per square centimeter (1.0 mg/cm<span style="font-style: italic; ">2</span>), and for which the approaches thereto remain lead-safe. The Mayor, by rule, may establish a method to ensure that approaches to lead-free units remain lead-safe.]]></text>
   </level>
   <level>
     <num>(29)</num>

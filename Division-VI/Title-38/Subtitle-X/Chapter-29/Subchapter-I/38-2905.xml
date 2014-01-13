@@ -34,13 +34,9 @@
   <text>General Education Add-ons:</text>
   <level>
     <type>table</type>
-    <text>
-      <span style="font-weight: bold; ">Level/Program		Definition Weighting	Per Pupil</span>
-    </text>
-    <text>
-      <span style="font-weight: bold; "> 	Supplemental</span>
-    </text>
-    <text><span style="font-weight: bold; ">FY 2013
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Level/Program		Definition Weighting	Per Pupil</span>]]></text>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; "> 	Supplemental</span>]]></text>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">FY 2013
 </span>LEP/NEP 		Limited and
  		non-English
  		proficient
@@ -59,16 +55,13 @@ Summer 		An accelerated
  		Columbia Public
  		Schools and
  		public charter
- 		schools 0.17 $1,551</text>
+ 		schools 0.17 $1,551]]></text>
   </level>
   <text>Special Education Add-ons:</text>
   <level>
     <type>table</type>
-    <text>
-      <span style="font-weight: bold; ">Level/Program 	Definition 	Weighting	Per Pupil</span>
-    </text>
-    <text>
-      <span style="font-weight: bold; ">Supplemental FY 2013 
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Level/Program 	Definition 	Weighting	Per Pupil</span>]]></text>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Supplemental FY 2013 
 Level 1:Special	Eight hours or
 Education 		less per week of
  		specialized
@@ -128,13 +121,12 @@ Residential 	D.C. Public
  		a residential
  		setting, in
  		addition to their
- 		instructional program 1.70 	$15,511</span>
-    </text>
+ 		instructional program 1.70 	$15,511</span>]]></text>
   </level>
   <text>Residential Add-ons:</text>
   <level>
     <type>table</type>
-    <text><span style="font-weight: bold; ">Level/Program 	Definition Weighting 	Per Pupil
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Level/Program 	Definition Weighting 	Per Pupil
  		Supplemental FY 2013</span>
 Level 1: Special	Additional
 Education -		funding to
@@ -218,7 +210,7 @@ Residential 	funding to
  		with room and
  		board in a
  		residential
- 		setting 0.68 	$6,204</text>
+ 		setting 0.68 	$6,204]]></text>
   </level>
   <text>Special Education Add-ons for Students with Extended School Year ("ESY") Indicated in Their Individualized Education Programs ("IEPs"):</text>
   <level>

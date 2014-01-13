@@ -80,7 +80,7 @@
  
  "You are entitled to an accounting of the unpaid indebtedness secured by the property that we intend to sell [or lease or license, as applicable] [for a charge of $ ..........]. You may request an accounting by calling us at [telephone number]</text>
       <text class="centered"> "[End of Form]"</text>
-      <text>
+      <text encoding="xhtml"><![CDATA[
 (Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576.)
 
  <span style="font-weight: bold; ">Section References. </span> This section is referenced in § 28:9-602 and § 28:9-614. 
@@ -88,7 +88,7 @@
  <span style="font-weight: bold; ">Legislative History of Law 13-201.</span> For Law 13-201, see notes following § 28:9-101. 
 
  <span style="font-weight: bold; ">UNIFORM COMMERCIAL CODE COMMENT</span> 1. Source. New. 
- 2. Contents of Notification. To comply with the "reasonable authenticated notification" requirement of Section 9-611(b), the contents of a notification must be reasonable. Except in a consumer-goods transaction, the contents of a notification that includes the information set forth in paragraph (1) are sufficient as a matter of law, unless the parties agree otherwise. (The reference to "time" of disposition means here, as it did in former Section 9-504(3), not only the hour of the day but also the date.) Although a secured party may choose to include additional information concerning the transaction or the debtor's rights and obligations, no additional information is required unless the parties agree otherwise. A notification that lacks some of the information set forth in paragraph (1) nevertheless may be sufficient if found to be reasonable by the trier of fact, under paragraph (2). A properly completed sample form of notification in paragraph (5) or in Section 9-614(a)(3) is an example of a notification that would contain the information set forth in paragraph (1). Under paragraph (4), however, no particular phrasing of the notification is required.</text>
+ 2. Contents of Notification. To comply with the "reasonable authenticated notification" requirement of Section 9-611(b), the contents of a notification must be reasonable. Except in a consumer-goods transaction, the contents of a notification that includes the information set forth in paragraph (1) are sufficient as a matter of law, unless the parties agree otherwise. (The reference to "time" of disposition means here, as it did in former Section 9-504(3), not only the hour of the day but also the date.) Although a secured party may choose to include additional information concerning the transaction or the debtor's rights and obligations, no additional information is required unless the parties agree otherwise. A notification that lacks some of the information set forth in paragraph (1) nevertheless may be sufficient if found to be reasonable by the trier of fact, under paragraph (2). A properly completed sample form of notification in paragraph (5) or in Section 9-614(a)(3) is an example of a notification that would contain the information set forth in paragraph (1). Under paragraph (4), however, no particular phrasing of the notification is required.]]></text>
     </level>
     <level>
       <num>(1)</num>

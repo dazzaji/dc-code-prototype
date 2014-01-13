@@ -102,7 +102,7 @@
   </level>
   <level>
     <num>(k)</num>
-    <text>Employment shall not be considered permanent when, within 12 weeks after employment commences, that employment is terminated by the employer through no fault of the job-seeker, or is terminated by the job-seeker if the employment is not as represented to the job-seeker. In that event, the employment agency making the job placement shall refund to the job-seeker the portion of the placement fee that exceeds <span style="font-style: italic; ">1</span>/<span style="">12</span> of that fee for each week or portion thereof that the employment continued.</text>
+    <text encoding="xhtml"><![CDATA[Employment shall not be considered permanent when, within 12 weeks after employment commences, that employment is terminated by the employer through no fault of the job-seeker, or is terminated by the job-seeker if the employment is not as represented to the job-seeker. In that event, the employment agency making the job placement shall refund to the job-seeker the portion of the placement fee that exceeds <span style="font-style: italic; ">1</span>/<span style="">12</span> of that fee for each week or portion thereof that the employment continued.]]></text>
   </level>
   <level>
     <num>(l)</num>

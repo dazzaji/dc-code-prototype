@@ -36,14 +36,14 @@
   </level>
   <level>
     <type>table</type>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -</span>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Offense: 		Specified in -</span>
 Assault .......................... 		section 806 (D.C. Code, sec. 22-404).
 Unlawful entry ................... 		section 824 (D.C. Code, sec. 22-3302).
 Malicious burning, destruction or
- injury of another's property .... 		section 848 (D.C. Code, sec. 22-303).</text>
+ injury of another's property .... 		section 848 (D.C. Code, sec. 22-303).]]></text>
     <text>The following offense specified in the Omnibus Public Safety Amendment Act of 2006, effective April 24, 2007 (D.C. Law 16-306; 53 DCR 8610):</text>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -
-</span>Voyeurism ........................ 		section 105 (D.C. Code, sec. 22-3531).</text>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Offense: 		Specified in -
+</span>Voyeurism ........................ 		section 105 (D.C. Code, sec. 22-3531).]]></text>
   </level>
   <level>
     <num>(B)</num>
@@ -54,20 +54,14 @@ Malicious burning, destruction or
   </level>
   <level>
     <type>table</type>
-    <text>
+    <text encoding="xhtml"><![CDATA[
 Offense: 		<span style="font-weight: bold; ">Specified in –</span>
 Theft of property valued less than $250		section 111 [D.C. Official Code,
- 		 § 22-3211].</text>
-    <text>
-      <span style="font-weight: bold; ">Receiving stolen property ........ 		section 132 [D.C. Official Code,
- 		 </span>
-      <span style="font-weight: bold; ">§</span>
-      <span style="font-weight: bold; "> 22-3232].
+ 		 § 22-3211].]]></text>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Receiving stolen property ........ 		section 132 [D.C. Official Code,
+ 		 </span><span style="font-weight: bold; ">§</span><span style="font-weight: bold; "> 22-3232].
 Shoplifting ...................... 		section 113 [D.C. Official Code,
- 		 </span>
-      <span style="font-weight: bold; ">§</span>
-      <span style="font-weight: bold; "> 22-3213].</span>
-    </text>
+ 		 </span><span style="font-weight: bold; ">§</span><span style="font-weight: bold; "> 22-3213].</span>]]></text>
   </level>
   <level>
     <num>(D)</num>
@@ -75,12 +69,12 @@ Shoplifting ...................... 		section 113 [D.C. Official Code,
   </level>
   <level>
     <type>table</type>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Offense: 		Specified in -
 </span>Theft of property valued in excess
 of $250 .......................... 		section 111 [D.C. Official Code,
  		 § 22-3211].
 Unauthorized use of vehicles ..... 		section 115 [D.C. Official Code,
- 		 § 22-3215].</text>
+ 		 § 22-3215].]]></text>
   </level>
   <level>
     <num>(E)</num>
@@ -88,12 +82,12 @@ Unauthorized use of vehicles ..... 		section 115 [D.C. Official Code,
   </level>
   <level>
     <type>table</type>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -</span>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Offense: 		Specified in -</span>
 Unauthorized Disposal of Solid
 Waste ............................. Section 3.[D.C. Official Code, § 8-902]
-(F) The following offenses specified in section 113.7 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 113.7).</text>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in</span>
-Illegal construction ............. 		section 113.7 (12A DCMR § 113.7)</text>
+(F) The following offenses specified in section 113.7 of Title 12A of the District of Columbia Municipal Regulations (12A DCMR § 113.7).]]></text>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Offense: 		Specified in</span>
+Illegal construction ............. 		section 113.7 (12A DCMR § 113.7)]]></text>
   </level>
   <level>
     <num>(3)</num>
@@ -101,7 +95,7 @@ Illegal construction ............. 		section 113.7 (12A DCMR § 113.7)</text>
   </level>
   <level>
     <type>table</type>
-    <text><span style="font-weight: bold; ">Offense: 		Specified in -</span>
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Offense: 		Specified in -</span>
 Reckless driving ................. 		section 9(b) (D.C. Official Code
  		 § 50-2201.04(b))
 Fleeing from the scene of an
@@ -117,7 +111,7 @@ operator's blood, breath, or urine
 contains the amount of alcohol
 which is prohibited by section
 10(b) ............................ section 10(b) (D.C. Official Code
- 		 § 50-2201.05(b))</text>
+ 		 § 50-2201.05(b))]]></text>
     <text>Operating a motor vehicle when the
 operator's permit is revoked or
 suspended ........................ 	section 13(e) (D.C. Official Code

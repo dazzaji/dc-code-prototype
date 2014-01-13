@@ -7,14 +7,17 @@
     <num>(a)</num>
     <level>
       <num>(1)</num>
-      <text>In the case of a taxable year beginning after December 31, 1986, there is imposed on the taxable income of every resident a tax determined in accordance with the following table: <span style="font-style: italic; ">If the taxable income is: 		The tax is: </span></text>
+      <text encoding="xhtml"><![CDATA[In the case of a taxable year beginning after December 31, 1986, there is imposed on the taxable income of every resident a tax determined in accordance with the following table: <span style="font-style: italic; ">If the taxable income is: 		The tax is: </span>]]></text>
       <level>
         <type>form</type>
-        <text><span style="font-style: italic; "> 
+        <text encoding="xhtml"><![CDATA[
+
+ 
+ <span style="font-style: italic; "> 
  </span> Not over $10,000.................... 	6% of the taxable income. 
  
  
- Over $10,000 but not over $20,000... 	$600, plus 8% of the excess over</text>
+ Over $10,000 but not over $20,000... 	$600, plus 8% of the excess over]]></text>
         <text> 							 $10,000. 
  
  
@@ -22,18 +25,18 @@
         <text> 							 $20,000. 
  
  (2) In the case of a taxable year beginning after December 31, 1987, there is imposed on the taxable income of every resident a tax determined in accordance with the following table:</text>
-        <text> If the taxable income is: 	<span style="font-style: italic; ">	The tax is: 
+        <text encoding="xhtml"><![CDATA[ If the taxable income is: 	<span style="font-style: italic; ">	The tax is: 
  
  </span>
  Not over $10,000....................		6% of the taxable income. 
  
  
- Over $10,000 but not over $20,000...	 	$600, plus 8% of the excess over</text>
+ Over $10,000 but not over $20,000...	 	$600, plus 8% of the excess over]]></text>
         <text> 							 $10,000. 
  
  
  Over $20,000........................ 	$1,400, plus 9.5% of the excess over</text>
-        <text> 							 $20,000. 
+        <text encoding="xhtml"><![CDATA[ 							 $20,000. 
  
  (3) In the case of a taxable year beginning after December 31, 1999, there is imposed on the taxable income of every resident a tax determined in accordance with the following table: 
  
@@ -42,7 +45,7 @@
 Not over $10,000..................... 	5% of the taxable income. 
  
  
-Over $10,000 but not over $20,000.... 	$500, plus 7.5% of the excess over</text>
+Over $10,000 but not over $20,000.... 	$500, plus 7.5% of the excess over]]></text>
         <text> 							 $10,000. 
  
  
@@ -57,7 +60,7 @@ Over $20,000......................... 	$1,250, plus 9.5% of the excess over</tex
           <level>
             <type>form</type>
             <text/>
-            <text>
+            <text encoding="xhtml"><![CDATA[
  
  If the taxable income is: 	<span style="font-style: italic; ">	The tax is: 
  
@@ -65,12 +68,12 @@ Over $20,000......................... 	$1,250, plus 9.5% of the excess over</tex
  Not over $10,000.................... 	5% of the taxable income. 
  
  
- Over $10,000 but not over $30,000...	 	$500, plus 7.5% of the excess over</text>
+ Over $10,000 but not over $30,000...	 	$500, plus 7.5% of the excess over]]></text>
             <text> 							 $10,000. 
  
  
  Over $30,000........................ 	$2,000, plus 9.3% of the excess over</text>
-            <text> 							 $30,000. 
+            <text encoding="xhtml"><![CDATA[ 							 $30,000. 
  
  (B) Repealed. 
  
@@ -82,7 +85,7 @@ Over $20,000......................... 	$1,250, plus 9.5% of the excess over</tex
  Not over $10,000.................... 	5.0% of the taxable income. 
  
  
- Over $10,000 but not over $30,000...	 	$500, plus 7.5% of the excess over</text>
+ Over $10,000 but not over $30,000...	 	$500, plus 7.5% of the excess over]]></text>
             <text> 							 $10,000. 
  
  
@@ -114,14 +117,14 @@ Over $20,000......................... 	$1,250, plus 9.5% of the excess over</tex
   </level>
   <level>
     <type>form</type>
-    <text>
+    <text encoding="xhtml"><![CDATA[
  
  If the taxable income is: 	<span style="font-style: italic; ">	The tax is: 
  
  </span>
  Not over $10,000.................... 	4.5% of the taxable income. 
  
-Over $10,000 but not over $40,000.....	 	$450, plus 7% of the excess over</text>
+Over $10,000 but not over $40,000.....	 	$450, plus 7% of the excess over]]></text>
     <text> 							 $10,000. 
  
  
@@ -151,7 +154,7 @@ Over $40,000.......................... 	$2,550, plus 8.7% of the excess over</te
         <level>
           <type>form</type>
           <text/>
-          <text>
+          <text encoding="xhtml"><![CDATA[
  
  If the taxable income is: 	<span style="font-style: italic; ">	The tax is: 
  
@@ -159,7 +162,7 @@ Over $40,000.......................... 	$2,550, plus 8.7% of the excess over</te
  Not over $10,000.................... 	4% of the taxable income. 
  
  
-Over $10,000 but not over $40,000....	 	$400, plus 6% of the excess over</text>
+Over $10,000 but not over $40,000....	 	$400, plus 6% of the excess over]]></text>
           <text> 							 $10,000. 
  
  
@@ -196,12 +199,12 @@ Over $40,000......................... 	$2,200, plus 8.5% of the excess over</tex
         <level>
           <type>form</type>
           <text/>
-          <text>
+          <text encoding="xhtml"><![CDATA[
  If the taxable income is: 	<span style="font-style: italic; ">	The tax is: 
  </span>
 Not over $10,000.................... 	4% of the taxable income. 
  
-Over $10,000 but not over $40,000...	 	$400, plus 6% of the excess over</text>
+Over $10,000 but not over $40,000...	 	$400, plus 6% of the excess over]]></text>
           <text> 							 $10,000. 
  
 Over $40,000 but not over $350,000..	 	$2,200, plus 8.5% of the excess over</text>

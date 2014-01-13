@@ -13,12 +13,12 @@
   </level>
   <level>
     <type>table</type>
-    <text><span style="font-weight: bold; ">Years of Creditable Service Vested Percentage 
+    <text encoding="xhtml"><![CDATA[<span style="font-weight: bold; ">Years of Creditable Service Vested Percentage 
 </span>Less than 2 0%
 2 20%
 3 40%
 4 60%
-5 or more 100%.</text>
+5 or more 100%.]]></text>
   </level>
   <level>
     <num>(c)</num>

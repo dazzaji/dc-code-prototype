@@ -216,7 +216,7 @@
           <type>form</type>
           <text/>
           <text class="centered"> I = .03 + W (R - .03)</text>
-          <text> where R/1 is the lesser of R and .09, 
+          <text encoding="xhtml"><![CDATA[ where R/1 is the lesser of R and .09, 
  
  R/2 is the greater of R and .09, 
  
@@ -266,20 +266,20 @@
  
  "Plan Type C" means that, before the interest rate guarantee expires, the policyholder may withdraw funds in a lump sum or in installments lasting less than 5 years, and either without the withdrawal being adjusted to reflect changes in interest rates or asset values since the company received the funds or with the withdrawal subject only to a fixed surrender charge stipulated in the contract as a percentage of the fund. 
  
- (ii) Weighting factors for annuities and guaranteed interest contracts valued on an issue year basis:</text>
+ (ii) Weighting factors for annuities and guaranteed interest contracts valued on an issue year basis:]]></text>
         </level>
       </level>
     </level>
   </level>
   <level>
     <type>table</type>
-    <text><span style="font-style: italic; ">Guarantee Weighting Factor
+    <text encoding="xhtml"><![CDATA[<span style="font-style: italic; ">Guarantee Weighting Factor
 Duration for Plan Type
 (Years) A B C 
 </span>5 or less: .80 .60 .50
 More than 5, but not more than 10: .75 .60 .50
 More than 10, but not more than 20: .65 .50 .45
-More than 20: .45 .35 .35.</text>
+More than 20: .45 .35 .35.]]></text>
   </level>
   <level>
     <num>(iii)</num>
@@ -287,15 +287,9 @@ More than 20: .45 .35 .35.</text>
   <level>
     <type>form</type>
     <text> For annuities and guaranteed interest contracts valued on a change in fund basis, the factors shown in sub-subparagraph (ii) of this subparagraph increased by:</text>
-    <text class="centered">
-      <span style="font-style: italic; "> Plan Type</span>
-    </text>
-    <text class="centered">
-      <span style="font-style: italic; "> A B C</span>
-    </text>
-    <text class="centered">
-      <span style="font-style: italic; "> .15 .25 .05.</span>
-    </text>
+    <text class="centered" encoding="xhtml"><![CDATA[<span style="font-style: italic; "> Plan Type</span>]]></text>
+    <text class="centered" encoding="xhtml"><![CDATA[<span style="font-style: italic; "> A B C</span>]]></text>
+    <text class="centered" encoding="xhtml"><![CDATA[<span style="font-style: italic; "> .15 .25 .05.</span>]]></text>
   </level>
   <level>
     <num>(iv)</num>
@@ -303,15 +297,9 @@ More than 20: .45 .35 .35.</text>
     <level>
       <type>form</type>
       <text/>
-      <text class="centered">
-        <span style="font-style: italic; "> Plan Type</span>
-      </text>
-      <text class="centered">
-        <span style="font-style: italic; "> A B C</span>
-      </text>
-      <text class="centered">
-        <span style="font-style: italic; "> .05 .05 .05.</span>
-      </text>
+      <text class="centered" encoding="xhtml"><![CDATA[<span style="font-style: italic; "> Plan Type</span>]]></text>
+      <text class="centered" encoding="xhtml"><![CDATA[<span style="font-style: italic; "> A B C</span>]]></text>
+      <text class="centered" encoding="xhtml"><![CDATA[<span style="font-style: italic; "> .05 .05 .05.</span>]]></text>
     </level>
   </level>
   <level>

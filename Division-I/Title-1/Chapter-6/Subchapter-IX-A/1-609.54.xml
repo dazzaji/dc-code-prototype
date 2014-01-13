@@ -13,7 +13,7 @@
     <level>
       <type>form</type>
       <text/>
-      <text>
+      <text encoding="xhtml"><![CDATA[
  
  Length of Employment <span style="font-weight: bold; ">Maximum Severance 
  </span>
@@ -23,7 +23,7 @@
  
  1 to 3 years 8 weeks of the employee's basic pay 
  
- More than 3 years 10 weeks of the employee's basic pay.</text>
+ More than 3 years 10 weeks of the employee's basic pay.]]></text>
     </level>
   </level>
   <level>

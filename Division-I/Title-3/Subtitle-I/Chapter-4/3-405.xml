@@ -199,7 +199,7 @@
     </level>
     <level>
       <num>(2)</num>
-      <text>Each application for a funeral director's and apprentice funeral director's license shall be accompanied by a recent photograph of the applicant's face, measuring approximately 1" x 1<span style="font-style: italic; ">1</span>/<span style="">2</span>".</text>
+      <text encoding="xhtml"><![CDATA[Each application for a funeral director's and apprentice funeral director's license shall be accompanied by a recent photograph of the applicant's face, measuring approximately 1" x 1<span style="font-style: italic; ">1</span>/<span style="">2</span>".]]></text>
     </level>
     <level>
       <num>(3)</num>
