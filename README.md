@@ -3,8 +3,6 @@ DC Code XML
 
 This repository contains the Code of the District of Columbia in XML format.
 
-Besides browsing the raw XML, you can also see a [quick preview in HTML](http://joshdata.github.io/dc-code-prototype/index.xml).
-
 The DC Code in XML makes use of a custom schema that draws on ideas from [Akoma Ntoso](http://www.akomantoso.org/) and [United States Legislative Markup](http://uscodebeta.house.gov/download/download.shtml).
 
 The schema can almost entirely be seen in the following four examples.
@@ -77,14 +75,11 @@ The schema can almost entirely be seen in the following four examples.
 XInclude
 --------
 
-We distribute the DC Code XML in two formats.
+The Code begins in [index.xml](index.xml) but is broken apart into many small files using XInclude. Any "big" `<level>` element may be replaced by an XInclude element referencing another file, using a relative path, whose root node semantically belongs at the location of the XInclude.
 
-1. One large, 73 MB XML file.
-2. A collection of smaller XML files that are linked together through XInclude.
+We split the code at Titles, Chapters, Sections, and several other big levels between Chapter and Section. An XInclude element never appears within a Section or placeholder.
 
-This documentation assumes you are working with the one-big-file format.
-
-In the second format, any `<level>` element may be replaced by an XInclude reference to another file containing the element. Except in files for section levels, which never have XIncludes inside them. In this format the top-level file is:
+The top-level `index.xml` file looks like this:
 
 	<level>
 	  <type>document</type>
@@ -92,22 +87,32 @@ In the second format, any `<level>` element may be replaced by an XInclude refer
 	  <meta>
 	    <recency>current through DC Act 19-658; unofficial through D.C. Act 19-682</recency>
 	  </meta>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-I/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-II/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-III/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-IV/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-V/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-VI/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-VII/index.xml"/>
-	  <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Division-VIII/index.xml"/>
+	  <level>
+	    <type>Division</type>
+	    <num>I</num>
+	    <heading>Government of District</heading>
+	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-1/index.xml"/>
+	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-2/index.xml"/>
+	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-3/index.xml"/>
+	    ...
+	  </level>
+	  <level>
+	    <type>Division</type>
+	    <num>II</num>
+	    <heading>Judiciary and Judicial Procedure</heading>
+	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-11/index.xml"/>
+	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-12/index.xml"/>
+	    ...
 	</level>
+
+The namespace prefix `ns0` is subject to change.
 
 Root Element and Metadata
 -------------------------
 
-The root element is a `<level>` like most other nodes in the schema. We are not using namespaces.
+The root element is a `<level>`, like most other nodes in the schema. We are not using namespaces.
 
-The root element contains a `<meta>` element with document metadata. The `<meta>` element is followed by `<level>` elements representing the Divisions of the Code.
+The root element contains a `<meta>` element with document metadata. The `<meta>` element is followed by `<level>` elements representing the Divisions of the Code. In the actual root file `index.xml` in this repository some of the `<level>` elements shown below are replaced by XIncludes, but we show them replaced with their referenced content here to highlight the intended semantics.
 
 	<?xml version='1.0' encoding='utf-8'?>
 	<level>
