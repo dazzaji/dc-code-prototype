@@ -21,10 +21,11 @@ The schema can almost entirely be seen in the following four examples.
 
 	</level>
 
-(2) "Big" levels. These are divisions, titles, chapters, and so on.
+(2) "Big" levels that appear in the Table of Contents (`toc`). These are divisions, titles, chapters, and so on above the level of a section.
 
     <level>
-		<type>Title</type>
+		<type>toc</type>
+		<prefix>Title</prefix>
 		<num>1</num>
 		<heading>Government Organization</heading>
 
@@ -35,7 +36,7 @@ The schema can almost entirely be seen in the following four examples.
 (3) Sections and annotations.
 
 	<level>
-		<type>Section</type>
+		<type>section</type>
 		<num>2-531</num>
 		<heading>Public policy.</heading>
 
@@ -54,7 +55,7 @@ The schema can almost entirely be seen in the following four examples.
 		</level>
 	</level>
 
-(4) Little levels
+(4) "Little" levels which are rendered as paragraphs (often numbered).
 
 	<level>
 		<num>(c)</num>
@@ -75,9 +76,9 @@ The schema can almost entirely be seen in the following four examples.
 XInclude
 --------
 
-The Code begins in [index.xml](index.xml) but is broken apart into many small files using XInclude. Any "big" `<level>` element may be replaced by an XInclude element referencing another file, using a relative path, whose root node semantically belongs at the location of the XInclude.
+The Code begins in [index.xml](index.xml) but is broken apart into many small files using XInclude. Any `<level>` element may be replaced by an XInclude element referencing another file, using a relative path, whose root node semantically belongs at the location of the XInclude.
 
-We split the code at Titles, Chapters, Sections, and several other big levels between Chapter and Section. An XInclude element never appears within a Section or placeholder.
+We split the code at titles, chapters, sections, and so on. An XInclude element never appears within a section or placeholder.
 
 The top-level `index.xml` file looks like this:
 
@@ -88,7 +89,8 @@ The top-level `index.xml` file looks like this:
 	    <recency>current through DC Act 19-658; unofficial through D.C. Act 19-682</recency>
 	  </meta>
 	  <level>
-	    <type>Division</type>
+	    <type>toc</type>
+	    <prefix>Division</prefix>
 	    <num>I</num>
 	    <heading>Government of District</heading>
 	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-1/index.xml"/>
@@ -97,7 +99,8 @@ The top-level `index.xml` file looks like this:
 	    ...
 	  </level>
 	  <level>
-	    <type>Division</type>
+	    <type>toc</type>
+	    <prefix>Division</prefix>
 	    <num>II</num>
 	    <heading>Judiciary and Judicial Procedure</heading>
 	    <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-11/index.xml"/>
@@ -118,39 +121,38 @@ The root element contains a `<meta>` element with document metadata. The `<meta>
 	<level>
 	  <type>document</type>
 	  <heading>Code of the District of Columbia</heading>
-
 	  <meta>
-	    <recency>current through DC Act 19-658; unofficial through D.C. Act 19-682</recency>
+	    <recency>December 13, 2013 and through D.C. Act 20-210 (except D.C. Acts 20-130, 20-157, and 20-204)</recency>
 	  </meta>
-
 	  <level>
-	    <type>Division</type>
+	    <type>toc</type>
+	    <prefix>Division</prefix>
 	    <num>I</num>
 	    <heading>Government of District</heading>
-
 	    <level>
-	      <type>Title</type>
+	      <type>toc</type>
+	      <prefix>Title</prefix>
 	      <num>1</num>
 	      <heading>Government Organization</heading>
-
 	      <level>
-	        <type>Chapter</type>
+	        <type>toc</type>
+	        <prefix>Chapter</prefix>
 	        <num>1</num>
 	        <heading>District of Columbia Government Development</heading>
-
 	        <level>
-	          <type>Subchapter</type>
+	          <type>toc</type>
+	          <prefix>Subchapter</prefix>
 	          <num>I</num>
 	          <heading>District of Columbia Establishment</heading>
-
 	          <level>
-	            <type>Section</type>
+	            <type>section</type>
 	            <num>1-101</num>
 	            <heading>Territorial area.</heading>
-	            
 	            <text>The District of Columbia is that portion of the territory
-	            of the United States ceded by the State of Maryland for the permanent
-	            seat of government of the United States....
+	            of the United States ceded by the State of Maryland for the
+	            permanent seat of government of the United States, including the
+	            river Potomac in its course through the District, and the islands
+	            therein.</text>
 
 Levels
 ------
@@ -161,23 +163,24 @@ A `<level>` contains any of the following subelements:
 
 * `<type>`: The text in this element indicates the type of the level, as follows:
  * `document`: The root of the entire document. There is one such element and it is at the top of the hierarchy.
- * `Article`, `Chapter`, `Division`, `Part`, `Subchapter`, `Subdivision`, `Subpart`, `Subtitle`, `Title`, and `Unit`: These are the "big" levels on the spine above the level of a Section.
- * `Section`: Sections of the code (e.g. § 1-101), the primary levels where text and annotations occur.
- * `placeholder`: The level is section-like but it represents Code sections that no longer exist or may exist in the future but do not exist now. Placeholder levels often have text and annotations like sections. They are documented specifically in a section below.
+ * `toc`: These are divisions, titles, chapters, and so on above the level of a section. `toc` is a mnemonic for Table of Contents. These levels appear in the Table of Contents of the code.
+ * `section`: Sections of the code (e.g. § 1-101), the primary level at which text and annotations occur and what citations target.
+ * `placeholder`: The level is section-like but it represents Code sections that no longer exist. They are documented specifically in a section below.
  * `annotations`: Annotation blocks.
  * `appendices`: Appendices to a section (typically but not always within `Section`-levels).
  * `form` and `table`: Blocks that are rendered with internal whitespace preserved. `form` contains quoted language that the Code is directing to be used on government forms. `table` contains pay schedules and other tables that are layed out in a monospace font.
  * When `<type>` is omitted, the level is a numbered paragraph (i.e. `(1) The public policy....`) or an unnumbered block with a heading. Inside annotations, subheadings are represented this way.
 
+* `<prefix>`: Used in `toc` levels only to provide the text that appears before the level's number. Possibly values are `Article`, `Chapter`, `Division`, `Part`, `Subchapter`, `Subdivision`, `Subpart`, `Subtitle`, `Title`, and `Unit`.
 * `<num>`: The level's number. 
- * For "big" levels, this usually is a number, letter, or roman numeral.
- * For sections, the number is typically (but not always) in the format `1-101`. It never includes the §-symbol.
+ * For `toc` levels, this usually is a number, letter, or roman numeral.
+ * For sections, the number is roughly in the form `1-101` (title, hyphen, section number). It never includes the §-symbol.
  * For "little" levels, this is the paragraph's numbering including any parenthesis around the numbering. An example would be `(12A-i)`.
  * `<num>` isn't ever required. When `<num>` is omitted, the level is simply unnumbered. `document` and `placeholder` levels never have `<num>` elements. For placeholders, see below.
 
 * `<heading>`: The level's name or heading.
- * For "big" levels, sections, placeholders, and subheadings in annotations, this is the name of the level, such as `Government Organization`.
- * A heading can also appear on "little" levels.
+ * For `toc` levels, sections, placeholders, and subheadings in annotations, this is the name of the level, such as `Government Organization`.
+ * A heading can also appear on "little" levels and would appear as something like italicized text.
 
 * `<text>` and `<level>` content elements.
  * Zero or more `<text>` and `<level>` elements can appear within a `<level>` and should be rendered in document order.
@@ -207,7 +210,7 @@ Inside the `<text>` element is HTML conforming to the following restrictions:
 Placeholders
 ------------
 
-Placeholder levels are similar to levels with `type`=`Section` but represent Code sections that no longer exist or may exist in the future but do not exist now. Here is an example:
+Placeholder levels are similar to levels with `type`=`section` but represent Code sections that no longer exist. Here is an example:
 
 	<level>
 	  <type>placeholder</type>

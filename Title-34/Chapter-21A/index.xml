@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>21A</num>
   <heading>Lead Service Line Replacement Assistance</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-2151.xml"/>

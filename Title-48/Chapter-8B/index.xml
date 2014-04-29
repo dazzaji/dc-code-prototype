@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>8B</num>
   <heading>Off-Label Informed Consent</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-841.01.xml"/>

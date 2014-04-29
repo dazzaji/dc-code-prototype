@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>IX-A</num>
   <heading>Small, Local, and Disadvantaged Business Enterprise Development and Assistance</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Part-A/index.xml"/>

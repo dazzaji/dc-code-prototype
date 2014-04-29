@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>VI</num>
   <heading>Tax on Residents and Nonresidents</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1806.01.xml"/>

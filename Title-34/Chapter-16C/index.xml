@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>16C</num>
   <heading>Retail Natural Gas Supplier Licensing and Consumer Protection</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="34-1671.01.xml"/>

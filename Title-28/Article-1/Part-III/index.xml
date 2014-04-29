@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>III</num>
   <heading>Territorial Applicability and General Rules</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_1-301.xml"/>

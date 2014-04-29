@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>IV</num>
   <heading>Offenses and Penalties</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-904.01.xml"/>

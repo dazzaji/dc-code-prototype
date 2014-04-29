@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>III</num>
   <heading>Administration of Medication by Public School Employees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-631~38-634~P.xml"/>

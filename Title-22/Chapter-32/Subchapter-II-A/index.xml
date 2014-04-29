@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>II-A</num>
   <heading>Theft of Utility Service</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3218.01.xml"/>

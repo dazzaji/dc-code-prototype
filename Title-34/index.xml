@@ -1,9 +1,11 @@
 <level>
-  <type>Title</type>
+  <type>toc</type>
+  <prefix>Title</prefix>
   <num>34</num>
   <heading>Public Utilities</heading>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>I</num>
     <heading>Applicable Provisions Generally</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
@@ -19,13 +21,15 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>II</num>
     <heading>Cable Television</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-12/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>III</num>
     <heading>Electricity</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-13/index.xml"/>
@@ -34,14 +38,16 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-15/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IIIA</num>
     <heading>Electrical and Natural Gas Metering</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-15A/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-15B/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IV</num>
     <heading>Natural Gas</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
@@ -50,7 +56,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16C/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>V</num>
     <heading>Telecommunications</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
@@ -61,7 +68,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-20/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VI</num>
     <heading>Water and Sewer</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-21/index.xml"/>
@@ -71,7 +79,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-24/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VII</num>
     <heading>Miscellaneous</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25/index.xml"/>

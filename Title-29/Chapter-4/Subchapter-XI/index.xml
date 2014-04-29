@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>XI</num>
   <heading>Derivative Proceedings</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-411.01.xml"/>

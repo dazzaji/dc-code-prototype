@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>29</num>
   <heading>Sale of Unwholesome Food</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-2901~P.xml"/>

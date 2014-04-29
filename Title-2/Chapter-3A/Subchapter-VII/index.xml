@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>VII</num>
   <heading>Bonds and Other Forms of Security</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-357.01.xml"/>

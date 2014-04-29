@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>II-C</num>
   <heading>Industrial Revenue Bond Fees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-340.20.xml"/>

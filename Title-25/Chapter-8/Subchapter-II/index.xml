@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>II</num>
   <heading>Revocation, Suspension, and Civil Penalties</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-821.xml"/>

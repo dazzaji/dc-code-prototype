@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>III</num>
   <heading>Access for the Long-Term Care Ombudsman and Designees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-703.01.xml"/>

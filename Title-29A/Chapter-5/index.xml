@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>5</num>
   <heading>Foreign Trade Zones. [Transferred]</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29A-501~P.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>II</num>
   <heading>Authority and Procedure to Establish Real Property Tax Rates</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-811.xml"/>

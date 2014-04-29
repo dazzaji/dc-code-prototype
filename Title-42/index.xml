@@ -1,9 +1,11 @@
 <level>
-  <type>Title</type>
+  <type>toc</type>
+  <prefix>Title</prefix>
   <num>42</num>
   <heading>Real Property</heading>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>I</num>
     <heading>General</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
@@ -26,21 +28,24 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>II</num>
     <heading>Brokers and Realtors</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>III</num>
     <heading>Condominiums</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-20/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IV</num>
     <heading>Housing Enhancement Programs</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-21/index.xml"/>
@@ -48,7 +53,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-22/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>V</num>
     <heading>Housing Finance and Assistance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23/index.xml"/>
@@ -67,7 +73,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-30/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VI</num>
     <heading>Nuisance Property</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-31/index.xml"/>
@@ -77,7 +84,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-31C/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VII</num>
     <heading>Rental Housing</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-32/index.xml"/>
@@ -90,13 +98,15 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-36A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VII-A</num>
     <heading>Personal Property</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-36B/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VIII</num>
     <heading>Repealed and Expired Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-37/index.xml"/>

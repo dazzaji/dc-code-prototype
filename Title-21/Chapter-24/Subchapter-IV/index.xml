@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>IV</num>
   <heading>Registration and Recognition of Orders from Other States</heading>
   <text>

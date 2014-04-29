@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>III</num>
   <heading>Regulation of Manufacture, Distribution, and Dispensing</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-903.01.xml"/>

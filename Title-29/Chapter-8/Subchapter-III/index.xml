@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>III</num>
   <heading>Relations of Members and Managers to Persons Dealing with Limited Liability Company</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="29-803.01.xml"/>

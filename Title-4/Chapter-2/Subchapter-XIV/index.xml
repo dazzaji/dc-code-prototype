@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>XIV</num>
   <heading>District Claims of Support from Estates; Funeral Expenses</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-214.01.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>I</num>
   <heading>District of Columbia Housing Authority, 1999</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-201.xml"/>

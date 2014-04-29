@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>6</num>
   <heading>Government Pay Equity and Training</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="32-601.xml"/>

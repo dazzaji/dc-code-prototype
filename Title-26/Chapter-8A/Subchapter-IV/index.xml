@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>IV</num>
   <heading>Structure and Organization of a Merchant Bank; Capital Requirements</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="26-831.08.xml"/>

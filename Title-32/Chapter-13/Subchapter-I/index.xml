@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>I</num>
   <heading>Payment and Collection of Wages</heading>
   <text>

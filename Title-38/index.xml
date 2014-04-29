@@ -1,9 +1,11 @@
 <level>
-  <type>Title</type>
+  <type>toc</type>
+  <prefix>Title</prefix>
   <num>38</num>
   <heading>Educational Institutions</heading>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>I</num>
     <heading>Public Education - Primary and Secondary</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
@@ -26,14 +28,16 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-9/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>II</num>
     <heading>Public Education - Adult and Community</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>III</num>
     <heading>Public Education - Post Secondary</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
@@ -45,7 +49,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-16/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IV</num>
     <heading>Public Education - Charter Schools</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-17/index.xml"/>
@@ -53,14 +58,16 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IV-A</num>
     <heading>Public Education - School Choice</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18M/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-18N/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>V</num>
     <heading>Education Personnel</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-19/index.xml"/>
@@ -70,7 +77,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-22A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VI</num>
     <heading>Education for Hearing Impaired Persons</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-23/index.xml"/>
@@ -78,7 +86,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-24A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VII</num>
     <heading>Special Education</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25/index.xml"/>
@@ -86,21 +95,24 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-25B/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>VIII</num>
     <heading>State Level Agencies</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-26/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-26A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IX</num>
     <heading>College Access Assistance</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-27/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-27A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>X</num>
     <heading>School Funding</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-28/index.xml"/>
@@ -109,7 +121,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-29B/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>XI</num>
     <heading>Miscellaneous Education Provisions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-30/index.xml"/>

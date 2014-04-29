@@ -1,9 +1,11 @@
 <level>
-  <type>Title</type>
+  <type>toc</type>
+  <prefix>Title</prefix>
   <num>9</num>
   <heading>Transportation Systems</heading>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>I</num>
     <heading>Highways, Bridges, Streets, and Alleys</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
@@ -15,7 +17,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-6A/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>II</num>
     <heading>Airports</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-7/index.xml"/>
@@ -24,13 +27,15 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-10/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>III</num>
     <heading>National Capital Region Transportation</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>IV</num>
     <heading>Miscellaneous</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-11A/index.xml"/>

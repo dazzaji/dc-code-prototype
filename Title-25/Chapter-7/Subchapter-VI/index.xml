@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>VI</num>
   <heading>Limitations on Container Number, Size, Labeling, and Storage</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="25-751.xml"/>

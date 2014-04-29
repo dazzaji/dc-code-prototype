@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>II</num>
   <heading>Management of Sustainable Energy Programs</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-1774.01.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>C-i</num>
   <heading>Public Disclosure of Findings and Information in Cases of Child Fatality or Near Fatality</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1303.31.xml"/>

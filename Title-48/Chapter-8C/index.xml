@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>8C</num>
   <heading>Medication Advisory Committees</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="48-842.01.xml"/>

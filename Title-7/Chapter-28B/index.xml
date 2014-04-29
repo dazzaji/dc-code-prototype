@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>28B</num>
   <heading>Youth Athletic Concussion Protection</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-2871.01.xml"/>

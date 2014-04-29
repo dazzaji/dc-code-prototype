@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>A</num>
   <heading>Reorganization Plan No. 1 of 2003</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-15-35.xml"/>

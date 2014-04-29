@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>V</num>
   <heading>Creditor's Claims; Spendthrift and Discretionary Trusts</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="19-1305.01.xml"/>

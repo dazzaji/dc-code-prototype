@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>7D</num>
   <heading>Department of Health Care Finance</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-771.01.xml"/>

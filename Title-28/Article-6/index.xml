@@ -1,5 +1,6 @@
 <level>
-  <type>Article</type>
+  <type>toc</type>
+  <prefix>Article</prefix>
   <num>6</num>
   <heading>Bulk Transfers</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_6-101.xml"/>

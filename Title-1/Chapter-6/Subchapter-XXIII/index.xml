@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>XXIII</num>
   <heading>Public Sector Workers' Compensation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-623.01.xml"/>

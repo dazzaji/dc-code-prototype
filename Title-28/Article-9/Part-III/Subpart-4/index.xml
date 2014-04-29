@@ -1,5 +1,6 @@
 <level>
-  <type>Subpart</type>
+  <type>toc</type>
+  <prefix>Subpart</prefix>
   <num>4</num>
   <heading>Rights of Bank</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_9-340.xml"/>

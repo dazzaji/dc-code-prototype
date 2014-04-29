@@ -1,9 +1,11 @@
 <level>
-  <type>Title</type>
+  <type>toc</type>
+  <prefix>Title</prefix>
   <num>28</num>
   <heading>Commercial Instruments and Transactions</heading>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>I</num>
     <heading>Uniform Commercial Code</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-1/index.xml"/>
@@ -21,7 +23,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Article-11/index.xml"/>
   </level>
   <level>
-    <type>Subtitle</type>
+    <type>toc</type>
+    <prefix>Subtitle</prefix>
     <num>II</num>
     <heading>Other Commercial Transactions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-21/index.xml"/>

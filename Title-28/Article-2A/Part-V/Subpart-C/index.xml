@@ -1,5 +1,6 @@
 <level>
-  <type>Subpart</type>
+  <type>toc</type>
+  <prefix>Subpart</prefix>
   <num>C</num>
   <heading>Default by Lessee</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-523.xml"/>

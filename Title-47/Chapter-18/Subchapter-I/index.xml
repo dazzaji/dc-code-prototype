@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>I</num>
   <heading>Repeal of Prior Income Tax Law and Applicability of Subchapter; General Definitions</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1801.01.xml"/>

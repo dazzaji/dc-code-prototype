@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>12A</num>
   <heading>Community College of The District of Columbia Plan for Independence</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1271.01.xml"/>

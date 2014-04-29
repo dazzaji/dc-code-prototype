@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>12B</num>
   <heading>Health Care Provider Assessment Act of 1995</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1241~P.xml"/>

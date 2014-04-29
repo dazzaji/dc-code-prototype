@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>XVII</num>
   <heading>Qualified High Technology Companies</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1817.01.xml"/>

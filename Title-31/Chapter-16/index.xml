@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>16</num>
   <heading>Prohibition of Discrimination in the Provision of Insurance on Basis of AIDS Test</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="31-1601.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>I</num>
   <heading>Air Pollution Control</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-101.01~8-101.03~P.xml"/>

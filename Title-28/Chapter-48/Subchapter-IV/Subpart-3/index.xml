@@ -1,5 +1,6 @@
 <level>
-  <type>Subpart</type>
+  <type>toc</type>
+  <prefix>Subpart</prefix>
   <num>3</num>
   <heading>Receipts Normally Apportioned</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28-4804.08.xml"/>

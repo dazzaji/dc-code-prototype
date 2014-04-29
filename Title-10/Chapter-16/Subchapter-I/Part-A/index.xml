@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>A</num>
   <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1601.01.xml"/>

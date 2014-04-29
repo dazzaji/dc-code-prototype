@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>11A</num>
   <heading>Chesapeake Regional Olympic Games Authority</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1131.xml"/>

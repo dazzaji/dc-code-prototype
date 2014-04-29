@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>E</num>
   <heading>Financial Affairs; Bonding Authority</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="2-1223.14~2-1223.20~P.xml"/>

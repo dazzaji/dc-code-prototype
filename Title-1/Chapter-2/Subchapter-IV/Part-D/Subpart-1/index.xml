@@ -1,5 +1,6 @@
 <level>
-  <type>Subpart</type>
+  <type>toc</type>
+  <prefix>Subpart</prefix>
   <num>1</num>
   <heading>Budget and Financial Management</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-204.41.xml"/>

@@ -5,7 +5,8 @@
     <recency>December 13, 2013 and through D.C. Act 20-210 (except D.C. Acts 20-130, 20-157, and 20-204)</recency>
   </meta>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>I</num>
     <heading>Government of District</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-1/index.xml"/>
@@ -20,7 +21,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-10/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>II</num>
     <heading>Judiciary and Judicial Procedure</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-11/index.xml"/>
@@ -32,7 +34,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-17/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>III</num>
     <heading>Decedents' Estates and Fiduciary Relations</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-18/index.xml"/>
@@ -41,7 +44,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-21/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>IV</num>
     <heading>Criminal Law and Procedure and Prisoners</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-22/index.xml"/>
@@ -49,7 +53,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-24/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>V</num>
     <heading>Local Business Affairs</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-25/index.xml"/>
@@ -68,14 +73,16 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-37/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>VI</num>
     <heading>Education, Libraries, and Public Institutions</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-38/index.xml"/>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-39/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>VII</num>
     <heading>Property</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-40/index.xml"/>
@@ -83,7 +90,8 @@
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-42/index.xml"/>
   </level>
   <level>
-    <type>Division</type>
+    <type>toc</type>
+    <prefix>Division</prefix>
     <num>VIII</num>
     <heading>General Laws</heading>
     <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Title-43/index.xml"/>

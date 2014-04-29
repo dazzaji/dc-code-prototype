@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>I</num>
   <heading>Retirement Before June 30, 1946</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-2001.01.xml"/>

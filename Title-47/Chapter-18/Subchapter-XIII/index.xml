@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>XIII</num>
   <heading>Penalties and Interest</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="47-1813.01~P.xml"/>

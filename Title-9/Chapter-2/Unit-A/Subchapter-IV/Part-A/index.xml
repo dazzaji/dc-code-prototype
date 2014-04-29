@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>A</num>
   <heading>Naming of Public Space</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="9-204.01.xml"/>

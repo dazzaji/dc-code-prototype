@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>D-i</num>
   <heading>Attorney General for the District of Columbia</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="1-301.81.xml"/>

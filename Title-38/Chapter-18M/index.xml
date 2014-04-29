@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>18M</num>
   <heading>Grants for Tuition to Attend Primary and Secondary Schools In The District</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="38-1851.01~P.xml"/>

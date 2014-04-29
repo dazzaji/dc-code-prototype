@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>A</num>
   <heading>Fire Escapes, Elevators, Stairways, Etc</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="6-701.01.xml"/>

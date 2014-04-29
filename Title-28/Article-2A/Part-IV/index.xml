@@ -1,5 +1,6 @@
 <level>
-  <type>Part</type>
+  <type>toc</type>
+  <prefix>Part</prefix>
   <num>IV</num>
   <heading>Performance of Lease Contract: Repudiated, Substituted, and Excused</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="28_2A-401.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>14A</num>
   <heading>Newborn Safe Haven</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="4-1451.01.xml"/>

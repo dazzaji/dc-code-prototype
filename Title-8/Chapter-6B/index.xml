@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>6B</num>
   <heading>Urban Forest Preservation</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="8-651.01.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>11</num>
   <heading>Special Provisions Relating to Distribution</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="20-1101~P.xml"/>

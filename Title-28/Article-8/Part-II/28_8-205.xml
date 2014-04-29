@@ -1,5 +1,5 @@
 <level>
-  <type>Section</type>
+  <type>section</type>
   <num>28:8-205</num>
   <heading>Effect of unauthorized signature on security certificate.</heading>
   <text>An unauthorized signature placed on a security certificate before or in the course of issue is ineffective, but the signature is effective in favor of a purchaser for value of the certificated security if the purchaser is without notice of the lack of authority and the signing has been done by:</text>

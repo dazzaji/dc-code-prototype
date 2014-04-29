@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>III-A</num>
   <heading>Insurance Fraud</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="22-3225.01.xml"/>

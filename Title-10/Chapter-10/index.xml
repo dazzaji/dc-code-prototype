@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>10</num>
   <heading>Department of Real Estate Services</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="10-1001~P.xml"/>

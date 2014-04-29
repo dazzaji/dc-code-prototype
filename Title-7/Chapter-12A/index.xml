@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>12A</num>
   <heading>Mental Health Consumers' Rights Protection</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="7-1231.01.xml"/>

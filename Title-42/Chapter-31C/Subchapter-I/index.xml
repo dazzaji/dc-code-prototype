@@ -1,5 +1,6 @@
 <level>
-  <type>Subchapter</type>
+  <type>toc</type>
+  <prefix>Subchapter</prefix>
   <num>I</num>
   <heading>Acquisition and Disposal of Abandoned and Deteriorated Properties</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3171.01.xml"/>

@@ -1,5 +1,6 @@
 <level>
-  <type>Chapter</type>
+  <type>toc</type>
+  <prefix>Chapter</prefix>
   <num>38</num>
   <heading>Government Employer-Assisted Housing</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="42-3801~P.xml"/>

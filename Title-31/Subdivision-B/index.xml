@@ -1,5 +1,6 @@
 <level>
-  <type>Subdivision</type>
+  <type>toc</type>
+  <prefix>Subdivision</prefix>
   <num>B</num>
   <heading>General</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-48/index.xml"/>

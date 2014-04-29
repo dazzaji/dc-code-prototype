@@ -1,5 +1,6 @@
 <level>
-  <type>Title</type>
+  <type>toc</type>
+  <prefix>Title</prefix>
   <num>16</num>
   <heading>Particular Actions, Proceedings and Matters</heading>
   <ns0:include xmlns:ns0="http://www.w3.org/2001/XInclude" href="Chapter-1/index.xml"/>
